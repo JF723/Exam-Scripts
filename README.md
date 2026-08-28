@@ -1,2 +1,3 @@
 # University Exam Script
-Introduction to Computation Jupyter Notebook
+Introduction to computation final exam (Python) 
+Statistics module midterm (R)
